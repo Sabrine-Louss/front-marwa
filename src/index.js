@@ -7,7 +7,7 @@ import {Provider} from 'react-redux';
 import store from './redux/store';
 import axios from "axios";
 // axios.defaults.baseURL="http://localhost:5000/api";
-axios.defaults.baseURL="https://pet-care-api.onrender.com";
+axios.defaults.baseURL="https://pet-care-api.onrender.com/api";
 
 
 
